@@ -10,7 +10,7 @@
     . to activate the venv run "activate" command
 
 ### run the project
-    . cd into the project folder (if the name is not changed "cd django-project"
+    . cd into the project folder (if the name is not changed "cd django_project"
     . run the command "python manage.py runserver"
     . open the link "http://127.0.0.1:8000/" in your favourite browser
 
