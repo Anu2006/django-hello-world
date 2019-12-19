@@ -3,7 +3,7 @@
 ## steps
 
 ### seting up the django environment
-    . run the command "pip install django"
+    . run the command "pip install django==2.3"
     . first of all we have to create a virtual environment. for that,
     run the command "python -m venv 'your environment name that you prefer'
     . cd to your virtual env/Scripts folder
